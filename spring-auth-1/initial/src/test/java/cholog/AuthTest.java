@@ -18,7 +18,7 @@ class AuthTest {
     private static final String USERNAME_FIELD = "email";
     private static final String PASSWORD_FIELD = "password";
     private static final String EMAIL = "email@email.com";
-    private static final String PASSWORD = "1234";
+    private static final String PASSWORD = "12345";
 
     @LocalServerPort
     int port;
